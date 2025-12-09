@@ -8,7 +8,7 @@
   <!-- Pulsante Discord -->
   <!-- SOSTITUISCI I NUMERI QUI SOTTO CON IL TUO ID DISCORD PER FARLO FUNZIONARE -->
   <a href="https://discord.com/users/1234127069705666602">
-    <img src="https://img.shields.io/badge/Discord-@eac.ale-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-@inlinehooks-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
