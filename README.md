@@ -1,20 +1,16 @@
-<!-- Header Semplice -->
 <div align="center">
   <h1>Hi, I'm Forna971 👋</h1>
   <p>
     <b>Aspiring Developer | C++ & Web Backend</b>
   </p>
   
-  <!-- Pulsante Discord -->
-  <!-- SOSTITUISCI I NUMERI QUI SOTTO CON IL TUO ID DISCORD PER FARLO FUNZIONARE -->
   <a href="https://discord.com/users/1234127069705666602">
-    <img src="https://img.shields.io/badge/Discord-@inlinehooks-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-@stdstring_view?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
 <br />
 
-<!-- Chi sono: Onesto e Diretto -->
 ### 👨‍💻 About Me
 I am a developer currently building my skills. I have a strong passion for **Low-Level Programming** (understanding how games and software manage memory)**.
 
@@ -27,7 +23,6 @@ I am a developer currently building my skills. I have a strong passion for **Low
 What I am learning and using in my projects:
 
 <p align="left">
-  <!-- Parte C++ / Reverse (La tua passione) -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/IDA_Pro-Hex_Rays-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Memory_Logic-Important-black?style=for-the-badge" />
@@ -35,7 +30,6 @@ What I am learning and using in my projects:
 
 <br />
 
-<!-- Statistiche GitHub -->
 ### 📊 My Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Forna971&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="160" alt="Stats" />
